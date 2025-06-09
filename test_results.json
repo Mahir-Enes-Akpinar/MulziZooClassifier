@@ -1,0 +1,1175 @@
+[
+  {
+    "accuracy_status": "Yanlış",
+    "confidence": 0.5892947912216187,
+    "filename": "03eb1b314b.jpg",
+    "has_ground_truth": true,
+    "is_correct": false,
+    "predicted_class": "mouse",
+    "top5_classes": [
+      "mouse",
+      "rat",
+      "hamster",
+      "hedgehog",
+      "pigeon"
+    ],
+    "top5_probs": [
+      0.5892947912216187,
+      0.33467239141464233,
+      0.018511131405830383,
+      0.0035141012631356716,
+      0.003424036083742976
+    ],
+    "true_label": "rat"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.5566842555999756,
+    "filename": "50cd6cea07.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rat",
+    "top5_classes": [
+      "rat",
+      "mouse",
+      "hedgehog",
+      "ox",
+      "sparrow"
+    ],
+    "top5_probs": [
+      0.5566842555999756,
+      0.3970471918582916,
+      0.0021941503509879112,
+      0.001699023530818522,
+      0.0015730431769043207
+    ],
+    "true_label": "rat"
+  },
+  {
+    "accuracy_status": "Yanlış",
+    "confidence": 0.5351884365081787,
+    "filename": "8002b47f8b.jpg",
+    "has_ground_truth": true,
+    "is_correct": false,
+    "predicted_class": "mouse",
+    "top5_classes": [
+      "mouse",
+      "rat",
+      "hedgehog",
+      "ox",
+      "hamster"
+    ],
+    "top5_probs": [
+      0.5351884365081787,
+      0.4188327491283417,
+      0.0019945360254496336,
+      0.0018819408724084496,
+      0.0018343948759138584
+    ],
+    "true_label": "rat"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9767014980316162,
+    "filename": "86bbba4c3d.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rat",
+    "top5_classes": [
+      "rat",
+      "mouse",
+      "duck",
+      "hedgehog",
+      "otter"
+    ],
+    "top5_probs": [
+      0.9767014980316162,
+      0.0036262203939259052,
+      0.00099975208286196,
+      0.0007538493955507874,
+      0.0007444978691637516
+    ],
+    "true_label": "rat"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9726749062538147,
+    "filename": "9f1a82530f.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rat",
+    "top5_classes": [
+      "rat",
+      "mouse",
+      "otter",
+      "duck",
+      "possum"
+    ],
+    "top5_probs": [
+      0.9726749062538147,
+      0.0016441673506051302,
+      0.0012573052663356066,
+      0.0009485444170422852,
+      0.0009191420394927263
+    ],
+    "true_label": "rat"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9748104214668274,
+    "filename": "22fcc02a08.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "reindeer",
+    "top5_classes": [
+      "reindeer",
+      "deer",
+      "ox",
+      "antelope",
+      "bison"
+    ],
+    "top5_probs": [
+      0.9748104214668274,
+      0.003457478014752269,
+      0.0013270695926621556,
+      0.000847609422635287,
+      0.0006857247790321708
+    ],
+    "true_label": "reindeer"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9806507229804993,
+    "filename": "2a96267d6d.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "reindeer",
+    "top5_classes": [
+      "reindeer",
+      "deer",
+      "antelope",
+      "donkey",
+      "ox"
+    ],
+    "top5_probs": [
+      0.9806507229804993,
+      0.0043024844489991665,
+      0.0008225401979871094,
+      0.0005053392960689962,
+      0.00045972055522724986
+    ],
+    "true_label": "reindeer"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9785791039466858,
+    "filename": "93be8a187a.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "reindeer",
+    "top5_classes": [
+      "reindeer",
+      "deer",
+      "ox",
+      "bison",
+      "squirrel"
+    ],
+    "top5_probs": [
+      0.9785791039466858,
+      0.004381224513053894,
+      0.000635419215541333,
+      0.0005729600670747459,
+      0.0005691185942851007
+    ],
+    "true_label": "reindeer"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9855762124061584,
+    "filename": "9ef472add0.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "reindeer",
+    "top5_classes": [
+      "reindeer",
+      "deer",
+      "antelope",
+      "donkey",
+      "seal"
+    ],
+    "top5_probs": [
+      0.9855762124061584,
+      0.0008833404863253236,
+      0.0006036303238943219,
+      0.00048480977420695126,
+      0.0004475651076063514
+    ],
+    "true_label": "reindeer"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9790619611740112,
+    "filename": "11e3f3ad87.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rhinoceros",
+    "top5_classes": [
+      "rhinoceros",
+      "hippopotamus",
+      "horse",
+      "ox",
+      "elephant"
+    ],
+    "top5_probs": [
+      0.9790619611740112,
+      0.003399055218324065,
+      0.0009351597400382161,
+      0.0006372082862071693,
+      0.0005047840531915426
+    ],
+    "true_label": "rhinoceros"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9721031785011292,
+    "filename": "490eac2bee.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rhinoceros",
+    "top5_classes": [
+      "rhinoceros",
+      "hippopotamus",
+      "ox",
+      "bear",
+      "elephant"
+    ],
+    "top5_probs": [
+      0.9721031785011292,
+      0.011791959404945374,
+      0.0005823106039315462,
+      0.0005598122952505946,
+      0.0004862956702709198
+    ],
+    "true_label": "rhinoceros"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9700750708580017,
+    "filename": "5fcc6f58cd.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rhinoceros",
+    "top5_classes": [
+      "rhinoceros",
+      "elephant",
+      "hippopotamus",
+      "zebra",
+      "kangaroo"
+    ],
+    "top5_probs": [
+      0.9700750708580017,
+      0.007415286265313625,
+      0.0014973297948017716,
+      0.0009732641046866775,
+      0.0006662435480393469
+    ],
+    "true_label": "rhinoceros"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.984338104724884,
+    "filename": "65e3b51f65.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rhinoceros",
+    "top5_classes": [
+      "rhinoceros",
+      "hippopotamus",
+      "elephant",
+      "bear",
+      "zebra"
+    ],
+    "top5_probs": [
+      0.984338104724884,
+      0.0034962703939527273,
+      0.0005213727126829326,
+      0.00040930291288532317,
+      0.0003574839502107352
+    ],
+    "true_label": "rhinoceros"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9785259962081909,
+    "filename": "915d8e8448.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "rhinoceros",
+    "top5_classes": [
+      "rhinoceros",
+      "hippopotamus",
+      "elephant",
+      "bear",
+      "zebra"
+    ],
+    "top5_probs": [
+      0.9785259962081909,
+      0.0046928878873586655,
+      0.0023405225947499275,
+      0.0005401154048740864,
+      0.0004859385662712157
+    ],
+    "true_label": "rhinoceros"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9839679002761841,
+    "filename": "021fa2c72c.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sandpiper",
+    "top5_classes": [
+      "sandpiper",
+      "hedgehog",
+      "whale",
+      "otter",
+      "octopus"
+    ],
+    "top5_probs": [
+      0.9839679002761841,
+      0.0005613287794403732,
+      0.00041970392339862883,
+      0.00041956367203965783,
+      0.0003959585737902671
+    ],
+    "true_label": "sandpiper"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.8882397413253784,
+    "filename": "1b68092ce4.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sandpiper",
+    "top5_classes": [
+      "sandpiper",
+      "goose",
+      "duck",
+      "swan",
+      "whale"
+    ],
+    "top5_probs": [
+      0.8882397413253784,
+      0.009092516265809536,
+      0.005844468250870705,
+      0.00397269194945693,
+      0.002708690008148551
+    ],
+    "true_label": "sandpiper"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9892160892486572,
+    "filename": "4c1cf75f94.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sandpiper",
+    "top5_classes": [
+      "sandpiper",
+      "hedgehog",
+      "grasshopper",
+      "sparrow",
+      "octopus"
+    ],
+    "top5_probs": [
+      0.9892160892486572,
+      0.0003628386475611478,
+      0.00027586662326939404,
+      0.0002700159093365073,
+      0.00026345503283664584
+    ],
+    "true_label": "sandpiper"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9622016549110413,
+    "filename": "5bf7743623.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sandpiper",
+    "top5_classes": [
+      "sandpiper",
+      "octopus",
+      "pelecaniformes",
+      "seahorse",
+      "goose"
+    ],
+    "top5_probs": [
+      0.9622016549110413,
+      0.001378253218717873,
+      0.0011085756123065948,
+      0.0009711711900308728,
+      0.0009483139729127288
+    ],
+    "true_label": "sandpiper"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9857476353645325,
+    "filename": "9d22641e85.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sandpiper",
+    "top5_classes": [
+      "sandpiper",
+      "hedgehog",
+      "octopus",
+      "ox",
+      "whale"
+    ],
+    "top5_probs": [
+      0.9857476353645325,
+      0.00043233163887634873,
+      0.0004080959770362824,
+      0.0003911492240149528,
+      0.00037902771146036685
+    ],
+    "true_label": "sandpiper"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9775249361991882,
+    "filename": "01ad309664.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seahorse",
+    "top5_classes": [
+      "seahorse",
+      "octopus",
+      "squid",
+      "eagle",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.9775249361991882,
+      0.005665838252753019,
+      0.00339868594892323,
+      0.0006309316377155483,
+      0.0005192295648157597
+    ],
+    "true_label": "seahorse"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9840383529663086,
+    "filename": "1d8cf55abe.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seahorse",
+    "top5_classes": [
+      "seahorse",
+      "octopus",
+      "squid",
+      "eagle",
+      "okapi"
+    ],
+    "top5_probs": [
+      0.9840383529663086,
+      0.002456691348925233,
+      0.0013314868556335568,
+      0.0003599342016968876,
+      0.00032628027838654816
+    ],
+    "true_label": "seahorse"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.950313925743103,
+    "filename": "9ff6ef2f12.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seahorse",
+    "top5_classes": [
+      "seahorse",
+      "squid",
+      "octopus",
+      "jellyfish",
+      "bear"
+    ],
+    "top5_probs": [
+      0.950313925743103,
+      0.01909869909286499,
+      0.007584522478282452,
+      0.0010979834478348494,
+      0.0008288614917546511
+    ],
+    "true_label": "seahorse"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9848286509513855,
+    "filename": "0ff9d3f29c.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "otter",
+      "penguin",
+      "possum",
+      "hippopotamus"
+    ],
+    "top5_probs": [
+      0.9848286509513855,
+      0.0016984802205115557,
+      0.0008332619327120483,
+      0.0005895080394111574,
+      0.0005442805122584105
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9765552878379822,
+    "filename": "13ad027930.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "possum",
+      "otter",
+      "whale",
+      "hippopotamus"
+    ],
+    "top5_probs": [
+      0.9765552878379822,
+      0.0015389054315164685,
+      0.0014503684360533953,
+      0.0010143296094611287,
+      0.0007125360425561666
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9634213447570801,
+    "filename": "3c3099f0b0.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "hippopotamus",
+      "otter",
+      "dolphin",
+      "penguin"
+    ],
+    "top5_probs": [
+      0.9634213447570801,
+      0.006706444080919027,
+      0.006308460142463446,
+      0.0011536136735230684,
+      0.0010675584198907018
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9809961318969727,
+    "filename": "6dab41597c.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "penguin",
+      "otter",
+      "possum",
+      "whale"
+    ],
+    "top5_probs": [
+      0.9809961318969727,
+      0.0014734369469806552,
+      0.000784935662522912,
+      0.0007116267224773765,
+      0.0004923670785501599
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9244535565376282,
+    "filename": "7a7cfae63e.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "otter",
+      "hippopotamus",
+      "penguin",
+      "possum"
+    ],
+    "top5_probs": [
+      0.9244535565376282,
+      0.04149259999394417,
+      0.004035504534840584,
+      0.0012851814972236753,
+      0.0011409403523430228
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9869645833969116,
+    "filename": "8ad029111d.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "otter",
+      "hippopotamus",
+      "penguin",
+      "possum"
+    ],
+    "top5_probs": [
+      0.9869645833969116,
+      0.0007950197323225439,
+      0.0007667389581911266,
+      0.0005048075108788908,
+      0.00037785788299515843
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9862637519836426,
+    "filename": "9a868af8ab.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "seal",
+    "top5_classes": [
+      "seal",
+      "otter",
+      "hippopotamus",
+      "penguin",
+      "possum"
+    ],
+    "top5_probs": [
+      0.9862637519836426,
+      0.0008024091948755085,
+      0.0005088619654998183,
+      0.00047403902863152325,
+      0.00043989511323161423
+    ],
+    "true_label": "seal"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9622712135314941,
+    "filename": "2ec8bf6933.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "dolphin",
+      "whale",
+      "kangaroo",
+      "moth"
+    ],
+    "top5_probs": [
+      0.9622712135314941,
+      0.007582221645861864,
+      0.001728635048493743,
+      0.0011032766196876764,
+      0.000986567698419094
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.985442042350769,
+    "filename": "30b3cbf355.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "dolphin",
+      "whale",
+      "kangaroo",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.985442042350769,
+      0.0022664989810436964,
+      0.0010736064286902547,
+      0.00044167539454065263,
+      0.00038964059785939753
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9806564450263977,
+    "filename": "5b3c8cbcb9.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "dolphin",
+      "whale",
+      "jellyfish",
+      "kangaroo"
+    ],
+    "top5_probs": [
+      0.9806564450263977,
+      0.004618032369762659,
+      0.0012370062759146094,
+      0.0006049515213817358,
+      0.0004965657135471702
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9838621020317078,
+    "filename": "90e477eb48.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "whale",
+      "dolphin",
+      "goose",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.9838621020317078,
+      0.0021741145756095648,
+      0.0015742880059406161,
+      0.0005370966391637921,
+      0.0004731923690997064
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.753462016582489,
+    "filename": "95b8f062ce.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "whale",
+      "goose",
+      "sandpiper",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.753462016582489,
+      0.03589498624205589,
+      0.01135602593421936,
+      0.0071651446633040905,
+      0.005949771497398615
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.44642195105552673,
+    "filename": "9a78375f5b.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "shark",
+    "top5_classes": [
+      "shark",
+      "dolphin",
+      "whale",
+      "turtle",
+      "kangaroo"
+    ],
+    "top5_probs": [
+      0.44642195105552673,
+      0.35715851187705994,
+      0.07677675783634186,
+      0.010973325930535793,
+      0.005198828876018524
+    ],
+    "true_label": "shark"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9835398197174072,
+    "filename": "03b2a18d1b.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sheep",
+    "top5_classes": [
+      "sheep",
+      "cow",
+      "goat",
+      "bison",
+      "bee"
+    ],
+    "top5_probs": [
+      0.9835398197174072,
+      0.0015585190849378705,
+      0.0011852756142616272,
+      0.0004730768268927932,
+      0.0004310600343160331
+    ],
+    "true_label": "sheep"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9827982783317566,
+    "filename": "3fe08ce282.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sheep",
+    "top5_classes": [
+      "sheep",
+      "cow",
+      "goat",
+      "bee",
+      "wolf"
+    ],
+    "top5_probs": [
+      0.9827982783317566,
+      0.0009359288378618658,
+      0.0006403181469067931,
+      0.0005459630629047751,
+      0.00044142379192635417
+    ],
+    "true_label": "sheep"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9812508821487427,
+    "filename": "91f24dcf13.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sheep",
+    "top5_classes": [
+      "sheep",
+      "goat",
+      "cow",
+      "bee",
+      "possum"
+    ],
+    "top5_probs": [
+      0.9812508821487427,
+      0.0023346771486103535,
+      0.0012957865837961435,
+      0.0005433225305750966,
+      0.00046571751590818167
+    ],
+    "true_label": "sheep"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9861735105514526,
+    "filename": "9f67053cd7.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sheep",
+    "top5_classes": [
+      "sheep",
+      "cow",
+      "goat",
+      "elephant",
+      "bee"
+    ],
+    "top5_probs": [
+      0.9861735105514526,
+      0.0006497525610029697,
+      0.0005441995454020798,
+      0.0004850778786931187,
+      0.00046936783473938704
+    ],
+    "true_label": "sheep"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9739911556243896,
+    "filename": "30e92dc7a1.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "snake",
+    "top5_classes": [
+      "snake",
+      "lizard",
+      "owl",
+      "swan",
+      "cat"
+    ],
+    "top5_probs": [
+      0.9739911556243896,
+      0.0008895208011381328,
+      0.0008100785780698061,
+      0.0008078347309492528,
+      0.0007958422647789121
+    ],
+    "true_label": "snake"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9720385074615479,
+    "filename": "51e556629f.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "snake",
+    "top5_classes": [
+      "snake",
+      "eagle",
+      "swan",
+      "hornbill",
+      "ox"
+    ],
+    "top5_probs": [
+      0.9720385074615479,
+      0.0009517332073301077,
+      0.0008549733902327716,
+      0.0008360851788893342,
+      0.0008308585966005921
+    ],
+    "true_label": "snake"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9796253442764282,
+    "filename": "6307ae132f.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "snake",
+    "top5_classes": [
+      "snake",
+      "eagle",
+      "hornbill",
+      "swan",
+      "caterpillar"
+    ],
+    "top5_probs": [
+      0.9796253442764282,
+      0.0007857608725316823,
+      0.0007249013287946582,
+      0.0005861098761670291,
+      0.000541159650310874
+    ],
+    "true_label": "snake"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9281765222549438,
+    "filename": "9ac132c555.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "snake",
+    "top5_classes": [
+      "snake",
+      "hornbill",
+      "lizard",
+      "caterpillar",
+      "swan"
+    ],
+    "top5_probs": [
+      0.9281765222549438,
+      0.0077553377486765385,
+      0.0022290367633104324,
+      0.0021467336919158697,
+      0.0019488077377900481
+    ],
+    "true_label": "snake"
+  },
+  {
+    "accuracy_status": "Yanlış",
+    "confidence": 0.09673569351434708,
+    "filename": "9b5d5ab8da.jpg",
+    "has_ground_truth": true,
+    "is_correct": false,
+    "predicted_class": "cat",
+    "top5_classes": [
+      "cat",
+      "oyster",
+      "dog",
+      "ox",
+      "snake"
+    ],
+    "top5_probs": [
+      0.09673569351434708,
+      0.04795755445957184,
+      0.03637749329209328,
+      0.036311712116003036,
+      0.024741532281041145
+    ],
+    "true_label": "snake"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9108799695968628,
+    "filename": "3ec0d9cd53.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sparrow",
+    "top5_classes": [
+      "sparrow",
+      "hummingbird",
+      "pigeon",
+      "parrot",
+      "squirrel"
+    ],
+    "top5_probs": [
+      0.9108799695968628,
+      0.005790214519947767,
+      0.003597602481022477,
+      0.0030943327583372593,
+      0.0030093789100646973
+    ],
+    "true_label": "sparrow"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9907756447792053,
+    "filename": "ff77ddb6e7.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "sparrow",
+    "top5_classes": [
+      "sparrow",
+      "pigeon",
+      "squirrel",
+      "ladybugs",
+      "ox"
+    ],
+    "top5_probs": [
+      0.9907756447792053,
+      0.0002942230203188956,
+      0.0002850386081263423,
+      0.00024385642609559,
+      0.00022665649885311723
+    ],
+    "true_label": "sparrow"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9690127968788147,
+    "filename": "3eff30e094.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "squid",
+    "top5_classes": [
+      "squid",
+      "octopus",
+      "lobster",
+      "deer",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.9690127968788147,
+      0.01564771868288517,
+      0.0011673563858494163,
+      0.0005229166708886623,
+      0.0005180285661481321
+    ],
+    "true_label": "squid"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9799560308456421,
+    "filename": "52e0afa7d6.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "squid",
+    "top5_classes": [
+      "squid",
+      "octopus",
+      "lobster",
+      "lizard",
+      "hornbill"
+    ],
+    "top5_probs": [
+      0.9799560308456421,
+      0.0025413299445062876,
+      0.0014411042211577296,
+      0.0008046665461733937,
+      0.0008001482347026467
+    ],
+    "true_label": "squid"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9730249047279358,
+    "filename": "7e98c48605.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "squid",
+    "top5_classes": [
+      "squid",
+      "octopus",
+      "lobster",
+      "goldfish",
+      "deer"
+    ],
+    "top5_probs": [
+      0.9730249047279358,
+      0.004704018123447895,
+      0.0016847375081852078,
+      0.0009726537391543388,
+      0.0008323222282342613
+    ],
+    "true_label": "squid"
+  },
+  {
+    "accuracy_status": "Yanlış",
+    "confidence": 0.8074851036071777,
+    "filename": "856a9d6978.jpg",
+    "has_ground_truth": true,
+    "is_correct": false,
+    "predicted_class": "octopus",
+    "top5_classes": [
+      "octopus",
+      "squid",
+      "seahorse",
+      "lobster",
+      "lizard"
+    ],
+    "top5_probs": [
+      0.8074851036071777,
+      0.14530767500400543,
+      0.0033472084905952215,
+      0.002405487233772874,
+      0.0019086848478764296
+    ],
+    "true_label": "squid"
+  },
+  {
+    "accuracy_status": "Doğru",
+    "confidence": 0.9843029975891113,
+    "filename": "9b7e323431.jpg",
+    "has_ground_truth": true,
+    "is_correct": true,
+    "predicted_class": "squid",
+    "top5_classes": [
+      "squid",
+      "octopus",
+      "lobster",
+      "deer",
+      "jellyfish"
+    ],
+    "top5_probs": [
+      0.9843029975891113,
+      0.0039452118799090385,
+      0.0005572534864768386,
+      0.0004762016178574413,
+      0.00038394739385694265
+    ],
+    "true_label": "squid"
+  }
+]

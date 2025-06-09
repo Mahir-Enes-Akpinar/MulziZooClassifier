@@ -1,0 +1,10 @@
+# requirements.txt
+PyQt5
+torch
+torchvision
+timm
+numpy
+opencv-python
+Pillow
+matplotlib
+rembg # İsteğe bağlı, eğer kullanılıyorsa

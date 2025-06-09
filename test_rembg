@@ -1,0 +1,5 @@
+try:
+    from rembg import remove
+    print("rembg başarıyla yüklendi!")
+except ImportError as e:
+    print(f"rembg yüklenemedi: {e}")
